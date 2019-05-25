@@ -1,0 +1,15 @@
+*.bak
+
+mp1.qpf
+mp1.qsf
+mp1.qws
+mp0.qws
+mp1_nativelink_simulation.rpt
+mp0_nativelink_simulation.rpt
+
+incremental_db/*
+output_files/*
+simulation/*
+db/*
+
+
